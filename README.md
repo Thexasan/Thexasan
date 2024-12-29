@@ -1,6 +1,6 @@
 Frontend Developer
 -------------------------
-* ✉️  You can contact me at [husenovhasan5577@gmail.com](gmailto:husenovhasan5577@gmail.com)
+* ✉️  Contact me at [husenovhasan5577@gmail.com](gmailto:husenovhasan5577@gmail.com)
 
 <a href="https://www.github.com/Thexasan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Thexasan?logo=github&style=for-the-badge&color=ef4444&labelColor=0f172a" /></a>
