@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Hasan;Senior+Software+Developer;Architecting+Digital+Solutions;Turning+Ideas+into+Reality" alt="Typing SVG" /></p>
+# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Hasan;Frontend+Full-Stack+Developer;Architecting+Digital+Solutions;Turning+Ideas+into+Reality" alt="Typing SVG" /></p>
 
 <p align="center">
   <a href="https://github.com/Thexasan">
@@ -13,10 +13,10 @@
 
 ### 🚀 About Me
 
-I am a **Senior Software Developer** with a passion for building scalable, high-performance web applications. With a deep focus on **Frontend Architecture** and **Full-Stack Development**, I bridge the gap between complex business requirements and elegant technical solutions.
+I am a **Frontend / Full-Stack Developer** focused on building scalable, high-performance web applications with React, Next.js, and TypeScript. I take products end-to-end - from architecture and APIs to a polished, internationalized UI.
 
-- 🔭 **Currently working on:** Advanced React patterns and Micro-frontend architectures.
-- 🌱 **Learning:** Deep diving into System Design and Cloud-Native technologies.
+- 🔭 **Currently working on:** A production travel-booking platform with Next.js, NestJS, and Prisma.
+- - 🌱 **Learning:** React Server Components, web performance, and testing.
 - 💬 **Ask me about:** React, TypeScript, Performance Optimization, and Clean Code.
 - ⚡ **Fun fact:** I believe that code is like humor—if you have to explain it, it’s bad.
 
