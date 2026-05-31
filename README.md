@@ -16,7 +16,7 @@
 I am a **Frontend / Full-Stack Developer** focused on building scalable, high-performance web applications with React, Next.js, and TypeScript. I take products end-to-end - from architecture and APIs to a polished, internationalized UI.
 
 - 🔭 **Currently working on:** A production travel-booking platform with Next.js, NestJS, and Prisma.
-- - 🌱 **Learning:** React Server Components, web performance, and testing.
+- 🌱 **Learning:** React Server Components, web performance, and testing.
 - 💬 **Ask me about:** React, TypeScript, Performance Optimization, and Clean Code.
 - ⚡ **Fun fact:** I believe that code is like humor—if you have to explain it, it’s bad.
 
