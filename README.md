@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="https://github.com/Thexasan">
-    <img src="https://github-readme-stats.vercel.app/api?username=Thexasan&show_icons=true&theme=tokyonight&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=a9b1d6" alt="Hasan's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Thexasan&show_icons=true&theme=tokyonight&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=a9b1d6&cache_seconds=1800" alt="Hasan's GitHub Stats" />
   </a>
   <a href="https://github.com/Thexasan">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thexasan&layout=compact&theme=tokyonight&hide_border=true&title_color=36BCF7&text_color=a9b1d6" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thexasan&layout=compact&theme=tokyonight&hide_border=true&title_color=36BCF7&text_color=a9b1d6&cache_seconds=1800" alt="Top Languages" />
   </a>
 </p>
 
