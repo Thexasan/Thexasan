@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Hasan;Frontend+Full-Stack+Developer;Architecting+Digital+Solutions;Turning+Ideas+into+Reality" alt="Typing SVG" /></p>
+# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Hasan;Frontend+Full-Stack+Developer;Turning+Ideas+into+Reality" alt="Typing SVG" /></p>
 
 <p align="center">
   <a href="https://github.com/Thexasan">
